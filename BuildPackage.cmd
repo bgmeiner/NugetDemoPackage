@@ -1,0 +1,1 @@
+.\nuget.exe pack .\NugetDemo.nuspec -Symbols -SymbolPackageFormat snupkg
